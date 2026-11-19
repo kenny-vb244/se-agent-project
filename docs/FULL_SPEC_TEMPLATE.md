@@ -1,6 +1,6 @@
 # Full Spec: <App name>
 
-**Team:** ______  **Date:** ______  **Committer:** ______
+**Team:** Kendall, Kendall, Buraporn, Maimuna  **Date:** 11/19/26  **Committer:** ______
 
 > How to use this file: copy it to `docs/FULL_SPEC.md` in your fork. Fill every section. There is **no length limit** here (the Run Brief has one).
 > Put a name next to each section: that person owns it and can explain it without the AI.
